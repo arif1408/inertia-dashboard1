@@ -12,7 +12,7 @@
     </BreezeAuthenticatedLayout>
 </template>
 
-<script setup>
+<script >
 import BreezeAuthenticatedLayout from '@/Layouts/AuthenticatedLayout.vue'
 import { Head } from '@inertiajs/inertia-vue3';
 
